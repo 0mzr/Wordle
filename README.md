@@ -1,5 +1,9 @@
-Simple "Wordle"  game with 14856 unique words
-Change filepath of text file in the code by copying .txt file path through file explorer.
+<div align="center">
+	<h2>Simple "Wordle"  game with 14856 unique words</h2>
+	<h2>Change filepath of text file in the code by copying .txt file path through file explorer.</h2>
+</div>
+
+
 
 <div id="header" align="center">
 		<a>

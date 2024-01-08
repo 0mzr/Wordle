@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
 		<a>
-			<img src="screenshot0 - Copy.bmp" width="557" height="582"/>
+			<img src="screenshot0.bmp" width="557" height="582"/>
 		</a>
 </div>
 

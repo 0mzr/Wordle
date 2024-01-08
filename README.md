@@ -3,7 +3,7 @@ Change filepath of text file in the code by copying .txt file path through file 
 
 <div id="header" align="center">
 		<a>
-			<img src="screenshot0 - Copy.bmp" width="480" height="480"/>
+			<img src="screenshot0 - Copy.bmp" width="557" height="582"/>
 		</a>
 </div>
 

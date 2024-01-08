@@ -6,8 +6,15 @@
 
 
 <div id="header" align="center">
+	<h2>Windows 11:</h2>
 		<a>
 			<img src="screenshot0.bmp" width="557" height="582"/>
+		</a>
+</div>
+<div id="header" align="center">
+	<h2>Windows 10:</h2>
+		<a>
+			<img src="screenshot1.bmp" width="613" height="562"/>
 		</a>
 </div>
 
